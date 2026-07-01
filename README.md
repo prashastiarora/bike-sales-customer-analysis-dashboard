@@ -29,12 +29,12 @@ A bike retailer wants to understand customer purchasing behavior and identify de
 
 # Skills Demonstrated
 - Data Cleaning
+- Exploratory Data Analysis
 - Data Analysis
 - Data Visualization
 - Dashboard Design
 - Business Intelligence
 - Pivot Tables
-- Exploratory Data Analysis
 
 # Tools Used
 - Microsoft Excel
