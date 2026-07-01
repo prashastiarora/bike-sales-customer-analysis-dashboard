@@ -22,11 +22,10 @@ A bike retailer wants to understand customer purchasing behavior and identify de
 - Dashboard Development
 
 # Key Insights
--- Middle-aged customers showed the highest bike purchase rate.
--- Customers from the Pacific region were more likely to purchase bikes.
--- Higher-income customers demonstrated greater purchasing tendencies.
--- Shorter commute distances were associated with higher bike purchases.
--- Education level showed noticeable differences in purchasing behavior.
+ Middle-aged customers are more likely to purchase bikes.
+ Customers from the Pacific region have a higher purchase rate.
+ Higher income groups tend to purchase bikes more frequently.
+ Customers with shorter commute distances are more likely to buy bikes.
 
 # Skills Demonstrated
 - Data Cleaning
