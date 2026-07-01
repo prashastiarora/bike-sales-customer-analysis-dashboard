@@ -5,7 +5,7 @@ Excel | Data Cleaning | Pivot Tables | Dashboard | Business Insights
 This project analyzes customer demographics and purchasing behavior to identify factors influencing bike purchases. The analysis was performed using Microsoft Excel through data cleaning, transformation, pivot table analysis, and dashboard creation.
 
 # Dashboard Preview
-<img width="805" height="695" alt="dashbroard" src="https://github.com/user-attachments/assets/9d1cffde-49f4-4022-ae2d-fdb07f954e90" />
+<img width="785" height="696" alt="dashbroad" src="https://github.com/user-attachments/assets/d5bad084-cda3-4c63-afb6-c8a86c783654" />
 
 # Business Problem
 A bike retailer wants to understand customer purchasing behavior and identify demographic factors influencing bike sales.
